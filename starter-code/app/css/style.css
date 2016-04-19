@@ -8,6 +8,10 @@ body {
   margin: 4rem;
 }
 
+#points {
+  display: inline-block;;
+}
+
 header {
   border-bottom: 1px solid black;
   padding-bottom: 1rem;
